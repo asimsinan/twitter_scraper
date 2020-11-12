@@ -1,6 +1,7 @@
 # twitter_scraper
 A Python script to scrape tweets matching a hashtag. This can be used for sentiment analysis purposes or training machine learning classifiers.
-* No accounts required.
+* No need to have a twitter account.
+* No need to set up an app.
 * Auto scroll until there is no matching tweets left.
 # Usage
 ```
